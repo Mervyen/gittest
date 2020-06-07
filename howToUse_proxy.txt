@@ -1,0 +1,4 @@
+使用WSL通过windows连接外部资源的时，需要export相关的设置
+
+export ALL_PROXY=socks5://127.0.0.1:10808
+
