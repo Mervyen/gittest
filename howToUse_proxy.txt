@@ -2,3 +2,9 @@
 
 export ALL_PROXY=socks5://127.0.0.1:10808
 
+curl  handshake failure
+
+nvm 可算安装完成了，很可能是V2RAYN的代理有问题，换成小飞机之后就好了。
+1.添加阿里的公共DNS服务器
+2.将V2ray切换到小飞机。socks5代理就可以了。
+
