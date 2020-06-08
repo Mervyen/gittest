@@ -1,0 +1,5 @@
+使用claudia模板时，左上角的名字有黑色背景。
+修改了模板目录下/source/css/nav.css里面的第115行
+.nav-item.log::after里面的backgroud:blakc-->backgourd:#fff
+
+可以使用Cmd Markdown编辑器实时编辑文件。https://www.zybuluo.com/mdeditor#fn:latex
