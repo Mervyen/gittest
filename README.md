@@ -1,4 +1,3 @@
-This is the first time,I use the git with github.
-
+WSL gittest
 
 revise in the web
